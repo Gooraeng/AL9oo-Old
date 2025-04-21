@@ -1,0 +1,11 @@
+discord.py
+asyncio
+typing
+numpy
+python-dotenv
+beautifulsoup4
+pandas
+lxml
+requests
+discord-py-slash-command
+pip

@@ -1,0 +1,24 @@
+.pybuilder/
+target/
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+.vscode/
+.idea/
+
+data/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+Cogs/__pycache__/
+temp_cog/
+Cogs/utils/__pycache__/
+*.py[cod]
+icons/
+Cogs/Commandlanguage.txt

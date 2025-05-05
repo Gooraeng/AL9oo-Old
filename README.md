@@ -1,4 +1,10 @@
-# ASL-Assistant
+# AL9oo OLD ver
+
+## [주의사항]
+- 이 repository는 과거 AL9oo의 전신이었던 ASL Assistant의 24년 1월 기준 코드를 보여주는 곳입니다.
+- 그래서 코드 퀄리티가 굉장히 떨어지는 점 양해해주시길 바랍니다.
+
+
 
 ## 🚩 소개
 - Asphalt 9을 즐기는 유저들이 자신이 찾고자 하는 차량의 디테일한 정보나 주행 레퍼런스 등을 제공하는 Discord Bot입니다.
